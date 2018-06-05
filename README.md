@@ -1,0 +1,1 @@
+# grupohpb-odoo.sh
